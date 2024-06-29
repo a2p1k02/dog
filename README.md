@@ -1,6 +1,8 @@
 # Dog
 Dog is a cat implementation for better experience
 
+《Dog》是《Cat》程序执行为以获得更好的体验
+
 ## How to use
 ```
 
